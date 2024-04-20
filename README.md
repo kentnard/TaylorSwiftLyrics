@@ -19,4 +19,4 @@ You can open the file "All Taylor Swift Lyrics.ipynb" to see the magic behind it
 
 
 ## Additional Note
-While examining the data, I realized that there are some mistakes regarding the writing credits, in particular, with the songs "Bigger Than The Whole Sky" and "imgonnagetyouback". The latter is credited with Taylor Swift and Jack Antonoff, but it is self-written by Taylor Swift; meanwhile the latter is credited as self-written, but it is written by Taylor Swift and Jack Antonoff. This is faulty from Genius' site. I have checked both Wikipedia and Spotify pages, and the data from Genius contradict them.
+While examining the data, I realized that there are some mistakes regarding the writing credits, in particular, with the songs "Bigger Than The Whole Sky" and "imgonnagetyouback". The former is credited with Taylor Swift and Jack Antonoff, but it is self-written by Taylor Swift; meanwhile the latter is credited as self-written, but it is written by Taylor Swift and Jack Antonoff. This is faulty from Genius' site. I have checked both Wikipedia and Spotify pages, and the data from Genius contradict them.
