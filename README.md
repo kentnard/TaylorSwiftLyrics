@@ -16,3 +16,7 @@ Meanwhile, the file that ends with "expanded_full_album_info" separates the lyri
 
 ## If you need the code part
 You can open the file "All Taylor Swift Lyrics.ipynb" to see the magic behind it. If you need more information to the song, you could gladly download the source code and modify according to your needs. Make sure you have created an account in the Genius API and replace the variable "client_access_token" with *YOUR* access token. Please pay attention to the comments in the code, because the process is very delicate with Request and might lead to errors.
+
+
+## Additional Note
+While examining the data, I realized that there are some mistakes regarding the writing credits, in particular, with the songs "Bigger Than The Whole Sky" and "imgonnagetyouback". The latter is credited with Taylor Swift and Jack Antonoff, but it is self-written by Taylor Swift; meanwhile the latter is credited as self-written, but it is written by Taylor Swift and Jack Antonoff. This is faulty from Genius' site. I have checked both Wikipedia and Spotify pages, and the data from Genius contradict them.
